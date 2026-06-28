@@ -1,6 +1,6 @@
-# Data-Cleaning-Visulization_Project**
-# AICTE/MSME Internship - Data Cleaning & Visualization**
-# 📊 **Data Science Internship Projects Portfolio**
+# Data-Cleaning-Visulization_Project
+# AICTE/MSME Internship - Data Cleaning & Visualization
+# 📊 **Data Science Internship Projects Portfolio
 
 A collection of **end-to-end Data Science and Machine Learning projects** developed during the internship program.
 
